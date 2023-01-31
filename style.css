@@ -1,0 +1,11 @@
+.labelDiv{
+    display: flex;
+    align-items: flex-end;
+}
+#lblmsg{
+    align-items: flex-end;
+    background-color: red;
+    text-align:end;
+    font-size: larger ;
+    font-weight: bold;
+}
